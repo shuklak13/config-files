@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Quiet Light",
+    "editor.cursorBlinking": "phase",
+    "editor.wordWrap": "bounded",
+    "window.zoomLevel": 0,
+    "editor.dragAndDrop": false,
+    "workbench.sideBar.location": "left",
+    "workbench.iconTheme": "vscode-icons",
+    "markdown.preview.linkify": false,
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": true,
+    "window.menuBarVisibility": "default",
+    "workbench.panel.location": "right",
+    "editor.wordWrapColumn": 100,
+    "git.ignoreMissingGitWarning": true,
+    "java.errors.incompleteClasspath.severity": "ignore"
+}
