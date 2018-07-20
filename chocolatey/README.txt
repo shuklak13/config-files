@@ -1,0 +1,1 @@
+run the script `install.exe` via cmd.exe
